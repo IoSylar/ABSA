@@ -10,5 +10,5 @@ Furthermore, the ability to display the reason for sentiment and the tone concer
 
 # Screen
 ![Screenshot](images/TEXT.PNG)
-![Screenshot](images/TEXT2.PNG)
+
 
