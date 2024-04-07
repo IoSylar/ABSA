@@ -9,6 +9,6 @@ Aspect-based sentiment analysis is implemented in a fully AI generative manner, 
 Furthermore, the ability to display the reason for sentiment and the tone concerning a specific aspect or entity has been added.
 
 # Screen
-![Screenshot](images/text.PNG)
-![Screenshot](images/text2.PNG)
+![Screenshot](images/TEXT.PNG)
+![Screenshot](images/TEXT2.PNG)
 
